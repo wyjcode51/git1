@@ -1,0 +1,42 @@
+# ===== IntelliJ IDEA =====
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# ===== Java 编译产物 =====
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+# ===== 构建目录 =====
+build/
+target/
+gradle-app.setting
+
+# ===== Gradle =====
+.gradle/
+gradle/wrapper/gradle-wrapper.jar
+
+# ===== Maven =====
+.mvn/
+mvnw
+mvnw.cmd
+
+# ===== 系统文件 =====
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ===== 日志 & 临时 =====
+*.log
+tmp/
+temp/
+
+# ===== 敏感文件 =====
+.env
+*.key
+*.pem
