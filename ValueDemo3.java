@@ -39,5 +39,13 @@ public class ValueDemo3{
 		System.out.println("z:"+ Z);//12
 		//赋值运算符，关系运算符，优化写法
 		//逻辑运算符*异或（相同false不同true），取反！（ture为false）
+		//三元运算符
+		System.out.println(a>b?a:b);
+		//结果为true为a,false为b
+		//原码补码反码
+		//原码就是二进制，补码就是取反，补码就是加一
+		//正数原码反码补码都是本身，负数反码符号位不变其余取反补码是反码加一
+		//计算机是补码相加
+
 	}
 }
