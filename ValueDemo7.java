@@ -12,8 +12,7 @@ public class ValueDemo7 {
       g.setName("静静");
       System.out.println(g.getAge());
       System.out.println(g.getName());
-      g.getAge();
-      g.getName();
-
+      Dog dog = new Dog("zhou");
+      dog.bark();
     }
 }
