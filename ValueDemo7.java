@@ -1,4 +1,6 @@
 public class ValueDemo7 {
+    //javabean类
+    //类名见名知意；成员变量要用private修饰；至少提供两个构造方法；对应的成员变量要setxxx/getxxx;
     public static void main(String[] args){
         phone p = new phone();
         p.brand="iqoo";
@@ -15,4 +17,9 @@ public class ValueDemo7 {
       Dog dog = new Dog("zhou");
       dog.bark();
     }
+
+
+
+
+
 }
