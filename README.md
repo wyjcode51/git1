@@ -31,9 +31,9 @@ git1/
 ## 学习进度
 
 - [x] 01 环境搭建 & HelloWorld
-- [ ] 02 基础语法（变量、数据类型、运算符）
-- [ ] 03 流程控制（if/else、for、while、switch）
-- [ ] 04 数组与字符串
+- [x] 02 基础语法（变量、数据类型、运算符）
+- [x] 03 流程控制（if/else、for、while、switch）
+- [x] 04 数组与字符串
 - [ ] 05 面向对象（类、对象、封装、继承、多态）
 - [ ] 06 异常处理
 - [ ] 07 集合框架（List、Set、Map）
@@ -47,7 +47,7 @@ git1/
 | 项目 | 配置 |
 |------|------|
 | IDE | IntelliJ IDEA |
-| JDK | OpenJDK 17 |
+| JDK | OpenJDK 21 |
 | 构建工具 | IntelliJ 内置 / Maven |
 | 版本控制 | Git + GitHub |
 
@@ -85,4 +85,4 @@ git push
 
 ---
 
-*最后更新：2026-09-10*
+*最后更新：2026-09-28*
